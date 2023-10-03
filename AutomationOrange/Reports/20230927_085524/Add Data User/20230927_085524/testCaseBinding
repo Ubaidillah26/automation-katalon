@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/TCC01 Feature Login","testCaseId":"Test Cases/TCC01 Feature Login","iterationVariableName":"","bindedValues":{"Username":"\u0027Admin\u0027","Password":"\u0027user321\u0027"}}
+{"testCaseName":"Test Cases/TCC01 Feature Login","testCaseId":"Test Cases/TCC01 Feature Login","iterationVariableName":"","bindedValues":{"Username":"\u0027user123\u0027","Password":"\u0027admin123\u0027"}}
+{"testCaseName":"Test Cases/TCC02 Feature Admin","testCaseId":"Test Cases/TCC02 Feature Admin","iterationVariableName":""}
